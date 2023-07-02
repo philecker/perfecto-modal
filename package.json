@@ -1,0 +1,19 @@
+{
+  "name": "perfecto-modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philecker/perfecto-modal.git"
+  },
+  "author": "Phil Ecker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philecker/perfecto-modal/issues"
+  },
+  "homepage": "https://github.com/philecker/perfecto-modal#readme"
+}
